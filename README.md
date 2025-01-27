@@ -20,7 +20,7 @@ This is the Employee Dashboard displaying key employee metrics. Charts are gener
 
 View Employees Page:
 This page displays a list of all employees. It includes options to search and filter employee details.
-![image](https://github.com/user-attachments/assets/571e9cb7-31d6-4780-abe6-2ced71bca9cd)
+![image](https://github.com/user-attachments/assets/8b0b8447-6fc5-4b00-866e-e5dd7fd1803e)
 ![image](https://github.com/user-attachments/assets/13c336d8-96ca-43db-9b3f-037d7852d301)
 
 ![image](https://github.com/user-attachments/assets/346fb6a4-b958-485e-beaa-c2087c864200)
@@ -39,7 +39,7 @@ This page allows employers to add new employees by filling out a form with essen
 
 View Employees Page:
 This page presents a comprehensive list of all employees. As an employer, you have the ability to update or delete employee details directly from this page.
-
+![image](https://github.com/user-attachments/assets/070d9946-8ef5-4253-9770-92719aad817e)
 ![image](https://github.com/user-attachments/assets/2315da13-068d-4190-9901-891e7d21c798)
 
 
