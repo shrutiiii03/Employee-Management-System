@@ -2,13 +2,21 @@
 A full-stack Employee Management System built with Django, React, and PostgreSQL to manage employee data efficiently.
 
 Features:
+
 Authentication & Authorization: Secure login, logout, and role-based access control for employers and employees. Employers can add, update, and delete employee details, while employees have view-only access.
+
 Employee Management (CRUD): Add, update, soft-delete, and view employee details.
+
 Employee Details Page: View a detailed profile of each employee.
+
 Dashboard: Visualize employees by department with charts and view summary metrics (total, active, inactive employees).
+
 RESTful APIs: Backend APIs for authentication and CRUD operations.
+
 CSV Export: Export employee data in CSV format for external use.
+
 Dockerized Deployment: Ready-to-deploy with Docker for backend and frontend.
+
 
 ![image](https://github.com/user-attachments/assets/8979024f-b371-43ee-97bc-53264f33778b)
 
