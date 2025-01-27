@@ -39,7 +39,7 @@ This page allows employers to add new employees by filling out a form with essen
 
 View Employees Page:
 This page presents a comprehensive list of all employees. As an employer, you have the ability to update or delete employee details directly from this page.
-![image](https://github.com/user-attachments/assets/d4d826e9-65b1-4095-b13c-cca90204291e)
+
 ![image](https://github.com/user-attachments/assets/2315da13-068d-4190-9901-891e7d21c798)
 
 
