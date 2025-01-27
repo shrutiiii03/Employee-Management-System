@@ -1,4 +1,15 @@
-# Employee-Management-System
+# Employee Management System
+A full-stack Employee Management System built with Django, React, and PostgreSQL to manage employee data efficiently.
+
+Features:
+Authentication & Authorization: Secure login, logout, and role-based access control for employers and employees. Employers can add, update, and delete employee details, while employees have view-only access.
+Employee Management (CRUD): Add, update, soft-delete, and view employee details.
+Employee Details Page: View a detailed profile of each employee.
+Dashboard: Visualize employees by department with charts and view summary metrics (total, active, inactive employees).
+RESTful APIs: Backend APIs for authentication and CRUD operations.
+CSV Export: Export employee data in CSV format for external use.
+Dockerized Deployment: Ready-to-deploy with Docker for backend and frontend.
+
 ![image](https://github.com/user-attachments/assets/8979024f-b371-43ee-97bc-53264f33778b)
 
 ![image](https://github.com/user-attachments/assets/1aa52f7a-533d-432d-9570-54cdf6cad41a)
@@ -28,7 +39,7 @@ This page allows employers to add new employees by filling out a form with essen
 
 View Employees Page:
 This page presents a comprehensive list of all employees. As an employer, you have the ability to update or delete employee details directly from this page.
-![image](https://github.com/user-attachments/assets/b78e761c-0666-4425-8274-bb2448cb9e20)
+![image](https://github.com/user-attachments/assets/d4d826e9-65b1-4095-b13c-cca90204291e)
 ![image](https://github.com/user-attachments/assets/2315da13-068d-4190-9901-891e7d21c798)
 
 
